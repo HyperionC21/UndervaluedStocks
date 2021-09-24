@@ -1,0 +1,3 @@
+[submodule "client-python"]
+	path = client-python
+	url = https://github.com/polygon-io/client-python.git
